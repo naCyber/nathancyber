@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nathan Moreira de Almeida França
 
-🔐 **Cybersecurity Student** |  
+🔐 **Cybersecurity Student** 
 🎓 Information Systems student focused on cybersecurity, building practical skills through hands-on projects and certifications.
 
 ---
